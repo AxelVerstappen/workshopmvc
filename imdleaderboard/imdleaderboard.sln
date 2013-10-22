@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Web
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication1", "MvcApplication1\MvcApplication1.csproj", "{BE22C157-547B-4CDE-8EBC-04141A6326CA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvcleaderboard", "MvcApplication1\mvcleaderboard.csproj", "{BE22C157-547B-4CDE-8EBC-04141A6326CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
